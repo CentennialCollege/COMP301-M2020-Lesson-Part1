@@ -1,14 +1,9 @@
 '''
  Author: Tom
  Date: July 6, 2020
+ Description: Example Text
 
 '''
-
-"""
- Anothe multiline comment
-
-"""
-
 
 
 weekDays = ["Sunday","Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
