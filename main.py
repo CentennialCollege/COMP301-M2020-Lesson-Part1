@@ -1,7 +1,6 @@
 from student import Student
 from vector2D import Vector2D
 
-
 tom = Student("Tom", 30, "A12345")
 
 tom.saysHello()
@@ -17,3 +16,9 @@ print(position1)
 
 position4 = position3 - position2
 print(position4)
+
+#distance = Vector2D.Distance(position4, position2)
+#print(distance)
+
+
+
