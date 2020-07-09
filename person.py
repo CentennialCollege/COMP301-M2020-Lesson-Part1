@@ -5,11 +5,6 @@ class Person(object):
         self.Name = name
         self.Age = age
     
+    #method
     def saysHello(self):
         print(f"{self.Name} says Hello!")
-
-
-
-
-person = Person("Tom", 30)
-person.saysHello()
